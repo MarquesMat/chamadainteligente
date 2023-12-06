@@ -1,0 +1,16 @@
+principal\ChamadaInteligente.class
+view\Menu.class
+sistema\Chamada.class
+adaptadores\Adaptador.class
+view\MenuAluno.class
+sistema\Turma.class
+usuario\Usuario.class
+principal\AcessoProfessor.class
+sistema.class
+database\AcessarBD.class
+sistema\Presenca.class
+usuario\Aluno.class
+database\BancoDeDados.class
+view\MenuProfessor.class
+usuario\Professor.class
+sistema\AlunosTurmas.class
