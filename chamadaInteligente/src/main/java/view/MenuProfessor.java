@@ -6,8 +6,8 @@ package view;
 
 import java.util.List;
 import java.util.Scanner;
-import sistema.Turma;
-import usuario.Professor;
+import model.sistema.Turma;
+import model.usuario.Professor;
 
 /**
  *

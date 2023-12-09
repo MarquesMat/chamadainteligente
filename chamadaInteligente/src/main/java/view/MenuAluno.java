@@ -6,9 +6,9 @@ package view;
 
 import java.util.List;
 import java.util.Scanner;
-import sistema.Chamada;
-import sistema.Turma;
-import usuario.Aluno;
+import model.sistema.Chamada;
+import model.sistema.Turma;
+import model.usuario.Aluno;
 
 /**
  *

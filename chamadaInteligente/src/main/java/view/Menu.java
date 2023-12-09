@@ -6,7 +6,7 @@ package view;
 
 import java.util.List;
 import java.util.Scanner;
-import sistema.Turma;
+import model.sistema.Turma;
 
 /**
  *
